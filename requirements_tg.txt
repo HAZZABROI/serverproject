@@ -1,0 +1,7 @@
+aiogram
+qrcode
+pymysql
+python-dotenv
+cryptography
+pyzbar
+pillow

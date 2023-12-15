@@ -1,0 +1,50 @@
+version: '3'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: web.dockerfile
+    command: ["gunicorn", "serverproject.wsgi:application", "--bind", "0.0.0.0:8000"]
+    privileged: true
+    ports:
+      - "8000:8000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - .:/app
+    networks:
+      - my-network
+    environment:
+      - PYTHONUNBUFFERED=1
+  mysql:
+    image: mysql
+    ports:
+      - "3306:3306"
+    volumes:
+      - type: bind
+        source: database.sql
+        target: /docker-entrypoint-initdb.d/database.sql
+    environment:
+      - MYSQL_ROOT_PASSWORD=ITSCHOOL_project
+      - MYSQL_DATABASE=database
+    networks:
+      - my-network
+    hostname: db
+  phpmyadmin:
+    image: phpmyadmin
+    ports:
+      - "8080:80"
+    links:
+      - mysql:db
+    networks:
+      - my-network
+  tgbot:
+    build:
+      context: .
+      dockerfile: tg.dockerfile
+    networks:
+      - my-network
+    command:
+      python /tgbot/main.py
+networks:
+  my-network:

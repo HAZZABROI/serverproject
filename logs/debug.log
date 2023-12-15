@@ -1,0 +1,1076 @@
+2023-11-26 19:17:57,370 root         INFO     File uploaded successfully: live_streams.sii
+2023-11-27 10:05:42,675 root         ERROR    Not all of the mandatory arguments were given
+2023-11-27 10:06:49,156 root         ERROR    Not all of the mandatory arguments were given
+2023-11-27 13:17:25,765 root         INFO     asd11
+2023-11-27 13:17:25,768 root         ERROR    Get new code
+2023-11-27 13:17:25,769 root         INFO     File uploaded successfully: live_streams.sii
+2023-11-27 13:20:54,117 root         ERROR    Get new code
+2023-11-27 13:20:54,118 root         INFO     File uploaded successfully: live_streams.sii
+2023-11-27 13:44:42,419 root         INFO     Date good!
+2023-11-27 13:44:42,419 root         INFO     File uploaded successfully: live_streams.sii
+2023-11-27 13:46:16,741 root         INFO     Date bad!
+2023-11-27 13:46:16,744 root         INFO     File uploaded successfully: live_streams.sii
+2023-11-27 15:37:52,061 root         INFO     BAD_DATE
+2023-11-27 15:41:54,488 root         INFO     GOOD_DATE
+2023-11-27 15:41:54,501 root         INFO     File uploaded successfully: task.py
+2023-11-27 15:42:48,240 root         INFO     GOOD_DATE
+2023-11-27 15:42:48,248 root         INFO     File uploaded successfully: task.py
+2023-11-27 15:43:04,503 root         INFO     GOOD_DATE
+2023-11-27 15:43:04,513 root         INFO     File uploaded successfully: task.py
+2023-11-27 15:43:44,090 root         INFO     GOOD_DATE
+2023-11-27 15:43:44,099 root         INFO     File uploaded successfully: task.py
+2023-11-27 15:45:50,906 root         INFO     GOOD_DATE
+2023-11-27 15:45:50,914 root         INFO     File uploaded successfully: task.py
+2023-11-27 15:56:29,072 root         INFO     GOOD_DATE
+2023-11-27 15:56:29,079 root         INFO     File uploaded successfully: task.py
+2023-11-27 15:57:13,551 root         INFO     GOOD_DATE
+2023-11-27 15:57:13,566 root         INFO     File uploaded successfully: task.py
+2023-11-27 15:57:47,505 root         INFO     GOOD_DATE
+2023-11-27 15:57:47,511 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:03:43,705 root         INFO     GOOD_DATE
+2023-11-27 16:03:43,713 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:05:12,442 root         INFO     GOOD_DATE
+2023-11-27 16:05:12,452 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:07:33,636 root         INFO     GOOD_DATE
+2023-11-27 16:07:33,643 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:08:07,230 root         INFO     GOOD_DATE
+2023-11-27 16:08:07,237 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:08:58,568 root         INFO     GOOD_DATE
+2023-11-27 16:08:58,577 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:09:47,892 root         INFO     GOOD_DATE
+2023-11-27 16:09:47,899 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:11:12,567 root         INFO     GOOD_DATE
+2023-11-27 16:11:12,572 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:12:28,792 root         INFO     GOOD_DATE
+2023-11-27 16:12:28,804 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:21:26,471 root         INFO     GOOD_DATE
+2023-11-27 16:21:26,479 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:21:49,465 root         INFO     GOOD_DATE
+2023-11-27 16:21:49,493 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:23:21,260 root         INFO     GOOD_DATE
+2023-11-27 16:23:21,271 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:28:44,797 root         INFO     GOOD_DATE
+2023-11-27 16:28:44,804 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:28:49,974 root         INFO     GOOD_DATE
+2023-11-27 16:28:49,985 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:29:02,194 root         INFO     GOOD_DATE
+2023-11-27 16:29:02,199 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:29:25,561 root         INFO     GOOD_DATE
+2023-11-27 16:29:25,568 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:52:08,890 root         INFO     GOOD_DATE
+2023-11-27 16:52:08,901 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:53:05,087 root         INFO     GOOD_DATE
+2023-11-27 16:53:05,098 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:56:09,109 root         INFO     GOOD_DATE
+2023-11-27 16:56:09,121 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:56:56,512 root         INFO     GOOD_DATE
+2023-11-27 16:56:56,528 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:57:41,357 root         INFO     GOOD_DATE
+2023-11-27 16:57:41,369 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:57:45,456 root         INFO     GOOD_DATE
+2023-11-27 16:57:45,473 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:59:01,915 root         INFO     GOOD_DATE
+2023-11-27 16:59:01,925 root         INFO     File uploaded successfully: task.py
+2023-11-27 16:59:53,107 root         INFO     GOOD_DATE
+2023-11-27 16:59:53,115 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:00:15,007 root         INFO     GOOD_DATE
+2023-11-27 17:00:15,012 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:01:14,002 root         INFO     GOOD_DATE
+2023-11-27 17:01:14,008 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:01:39,939 root         INFO     GOOD_DATE
+2023-11-27 17:01:39,947 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:02:47,231 root         INFO     GOOD_DATE
+2023-11-27 17:02:47,243 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:04:05,656 root         INFO     GOOD_DATE
+2023-11-27 17:04:05,672 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:05:03,868 root         INFO     GOOD_DATE
+2023-11-27 17:05:03,875 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:05:12,555 root         INFO     GOOD_DATE
+2023-11-27 17:05:12,569 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:05:19,597 root         INFO     GOOD_DATE
+2023-11-27 17:05:19,603 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:05:43,750 root         INFO     GOOD_DATE
+2023-11-27 17:05:43,759 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:07:46,946 root         INFO     GOOD_DATE
+2023-11-27 17:07:46,955 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:08:04,042 root         INFO     GOOD_DATE
+2023-11-27 17:08:04,068 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:10:09,475 root         INFO     GOOD_DATE
+2023-11-27 17:10:09,481 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:10:42,826 root         INFO     GOOD_DATE
+2023-11-27 17:10:42,842 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:12:06,000 root         INFO     GOOD_DATE
+2023-11-27 17:12:06,007 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:13:00,276 root         INFO     GOOD_DATE
+2023-11-27 17:13:00,290 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:15:31,515 root         INFO     GOOD_DATE
+2023-11-27 17:15:31,530 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:23:07,771 root         INFO     GOOD_DATE
+2023-11-27 17:23:07,778 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:23:25,054 root         INFO     GOOD_DATE
+2023-11-27 17:23:25,062 root         INFO     File uploaded successfully: task.py
+2023-11-27 17:27:34,161 root         INFO     GOOD_DATE
+2023-11-27 17:27:34,170 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:01:46,307 root         INFO     GOOD_DATE
+2023-11-27 18:01:46,316 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:02:42,511 root         INFO     GOOD_DATE
+2023-11-27 18:02:42,525 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:04:35,867 root         INFO     GOOD_DATE
+2023-11-27 18:04:35,874 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:06:12,759 root         INFO     GOOD_DATE
+2023-11-27 18:06:12,767 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:06:29,430 root         INFO     GOOD_DATE
+2023-11-27 18:06:29,438 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:07:42,870 root         INFO     GOOD_DATE
+2023-11-27 18:07:42,876 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:07:52,163 root         INFO     GOOD_DATE
+2023-11-27 18:07:52,169 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:07:53,422 root         INFO     GOOD_DATE
+2023-11-27 18:07:53,439 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:08:06,761 root         INFO     GOOD_DATE
+2023-11-27 18:08:06,771 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:12:03,425 root         INFO     GOOD_DATE
+2023-11-27 18:12:03,447 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:12:03,559 root         ERROR    TEST_NOT_FOUND
+2023-11-27 18:14:54,174 root         INFO     GOOD_DATE
+2023-11-27 18:14:54,187 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:21:38,843 root         INFO     GOOD_DATE
+2023-11-27 18:21:38,855 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:21:45,349 root         INFO     GOOD_DATE
+2023-11-27 18:21:45,366 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:35:48,984 root         INFO     GOOD_DATE
+2023-11-27 18:35:49,001 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:36:03,724 root         INFO     GOOD_DATE
+2023-11-27 18:36:03,741 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:37:33,038 root         INFO     GOOD_DATE
+2023-11-27 18:37:33,044 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:37:39,690 root         INFO     GOOD_DATE
+2023-11-27 18:37:39,702 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:39:29,983 root         INFO     NOT_FOUND_CODE
+2023-11-27 18:39:37,545 root         INFO     GOOD_DATE
+2023-11-27 18:39:37,553 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:39:43,289 root         INFO     NOT_FOUND_CODE
+2023-11-27 18:39:46,657 root         INFO     GOOD_DATE
+2023-11-27 18:39:46,668 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:46:34,347 root         INFO     GOOD_DATE
+2023-11-27 18:46:34,362 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:46:34,460 root         ERROR    CORRECT: 783555639
+2023-11-27 18:46:51,948 root         INFO     GOOD_DATE
+2023-11-27 18:46:51,962 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:46:52,035 root         INFO     CORRECT: 783555639
+2023-11-27 18:47:36,568 root         INFO     GOOD_DATE
+2023-11-27 18:47:36,573 root         INFO     File uploaded successfully: task.py
+2023-11-27 18:47:36,652 root         INFO     CORRECT: 783555639
+2023-11-27 18:50:58,033 root         INFO     GOOD_DATE: 783555639
+2023-11-27 18:50:58,039 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 18:50:58,115 root         INFO     CORRECT: 783555639
+2023-11-27 19:15:45,914 root         INFO     GOOD_DATE: 783555639
+2023-11-27 19:15:45,925 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 19:15:45,968 root         INFO     CORRECT: 783555639
+2023-11-27 19:18:08,774 root         INFO     GOOD_DATE: 783555639
+2023-11-27 19:18:08,806 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 19:18:08,870 root         INFO     CORRECT: 783555639
+2023-11-27 21:47:30,932 root         ERROR    NOT_FOUND_CODE: 123456
+2023-11-27 21:48:33,995 root         INFO     GOOD_DATE: 783555639
+2023-11-27 21:48:34,014 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 21:48:34,091 root         ERROR    TEST_NOT_FOUND: 1 user: 783555639
+2023-11-27 21:49:38,590 root         INFO     GOOD_DATE: 783555639
+2023-11-27 21:49:38,597 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 21:49:38,617 root         ERROR    TEST_NOT_FOUND: 1 user: 783555639
+2023-11-27 21:49:44,129 root         INFO     GOOD_DATE: 783555639
+2023-11-27 21:49:44,142 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 21:49:44,154 root         ERROR    TEST_NOT_FOUND: 1 user: 783555639
+2023-11-27 21:51:59,356 root         INFO     GOOD_DATE: 783555639
+2023-11-27 21:51:59,364 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 21:51:59,440 root         ERROR    TEST_NOT_FOUND: 1 user: 783555639
+2023-11-27 21:52:27,591 root         INFO     GOOD_DATE: 783555639
+2023-11-27 21:52:27,598 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 21:52:27,695 root         ERROR    TEST_NOT_FOUND: 1 user: 783555639
+2023-11-27 21:53:27,786 root         INFO     GOOD_DATE: 783555639
+2023-11-27 21:53:27,793 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 21:53:27,840 root         ERROR    TEST_NOT_FOUND: 1 user: 783555639
+2023-11-27 21:54:31,469 root         INFO     GOOD_DATE: 783555639
+2023-11-27 21:54:31,479 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 21:58:52,705 root         INFO     GOOD_DATE: 783555639
+2023-11-27 21:58:52,716 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:03:25,578 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:03:25,588 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:38:09,675 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:38:09,682 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:39:20,377 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:39:20,383 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:39:20,468 root         INFO     PASS: 783555639
+2023-11-27 22:39:55,119 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:39:55,132 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:39:55,174 root         INFO     PASS: 783555639
+2023-11-27 22:40:12,509 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:40:12,515 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:40:12,607 root         INFO     PASS: 783555639
+2023-11-27 22:43:20,072 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:43:20,077 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:43:20,146 root         INFO     PASS: 783555639
+2023-11-27 22:43:50,508 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:43:50,514 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:43:50,638 root         INFO     PASS: 783555639
+2023-11-27 22:44:40,444 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:44:40,450 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:45:20,649 root         INFO     GOOD_DATE: 783555639
+2023-11-27 22:45:20,657 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 22:45:20,735 root         INFO     PASS: 783555639
+2023-11-27 23:00:48,006 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:00:48,014 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:04:38,001 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:04:38,007 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:09:09,530 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:09:09,541 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:09:09,651 root         INFO     PASS: 783555639
+2023-11-27 23:09:45,797 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:09:45,803 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:09:45,874 root         INFO     PASS: 783555639
+2023-11-27 23:11:39,733 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:11:39,738 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:11:39,819 root         INFO     PASS: 783555639
+2023-11-27 23:13:39,340 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:21:04,836 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:21:04,844 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:21:04,963 root         INFO     PASS: 783555639
+2023-11-27 23:21:35,287 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:22:12,673 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:24:54,639 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:25:24,687 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:25:24,701 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:25:24,816 root         INFO     PASS: 783555639
+2023-11-27 23:27:36,405 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:27:36,411 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:27:36,510 root         INFO     PASS: 783555639
+2023-11-27 23:35:34,804 root         ERROR    NOT_FOUND_CODE: 123456
+2023-11-27 23:45:18,869 root         ERROR    NOT_FOUND_CODE: 123456
+2023-11-27 23:46:33,353 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:46:33,366 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:52:30,832 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:52:30,846 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:52:30,948 root         INFO     PASS: 783555639
+2023-11-27 23:58:54,300 root         INFO     GOOD_DATE: 783555639
+2023-11-27 23:58:54,306 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-27 23:58:54,432 root         INFO     PASS: 783555639
+2023-11-28 00:00:11,800 root         INFO     GOOD_DATE: 783555639
+2023-11-28 00:00:11,811 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 00:00:11,953 root         INFO     PASS: 783555639
+2023-11-28 09:10:58,759 root         INFO     GOOD_DATE: 783555639
+2023-11-28 09:10:58,767 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 09:10:59,078 root         INFO     PASS: 783555639
+2023-11-28 09:46:11,721 root         ERROR    NOT_FOUND_CODE: 123456
+2023-11-28 09:48:00,584 root         INFO     GOOD_DATE: 783555639
+2023-11-28 09:48:00,590 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:05:08,850 root         ERROR    NOT_FOUND_CODE: 123456
+2023-11-28 10:07:04,741 root         INFO     GOOD_DATE: 783555639
+2023-11-28 10:07:04,749 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:07:04,908 root         INFO     PASS: 783555639
+2023-11-28 10:13:25,552 root         INFO     GOOD_DATE: 783555639
+2023-11-28 10:13:25,563 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:13:25,668 root         INFO     PASS: 783555639
+2023-11-28 10:26:49,104 root         INFO     GOOD_DATE: 783555639
+2023-11-28 10:26:49,123 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:26:49,195 root         INFO     PASS: 783555639
+2023-11-28 10:27:26,041 root         INFO     GOOD_DATE: 783555639
+2023-11-28 10:27:26,048 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:27:26,154 root         INFO     PASS: 783555639
+2023-11-28 10:29:05,478 root         INFO     GOOD_DATE: 783555639
+2023-11-28 10:29:05,488 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:29:05,664 root         INFO     PASS: 783555639
+2023-11-28 10:34:25,012 root         INFO     GOOD_DATE: 783555639
+2023-11-28 10:34:25,021 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:34:26,375 root         INFO     PASS: 783555639
+2023-11-28 10:37:03,118 root         INFO     GOOD_DATE: 783555639
+2023-11-28 10:37:03,127 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:37:04,166 root         INFO     PASS: 783555639
+2023-11-28 10:37:34,438 root         INFO     GOOD_DATE: 783555639
+2023-11-28 10:37:34,448 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 10:37:35,569 root         INFO     PASS: 783555639
+2023-11-28 11:01:39,739 root         INFO     GOOD_DATE: 783555639
+2023-11-28 11:01:39,744 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 11:01:41,122 root         INFO     PASS: 783555639
+2023-11-28 11:05:23,431 root         INFO     GOOD_DATE: 783555639
+2023-11-28 11:05:23,434 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 11:05:24,720 root         INFO     PASS: 783555639
+2023-11-28 11:05:37,122 root         INFO     GOOD_DATE: 783555639
+2023-11-28 11:05:37,124 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 11:05:38,264 root         INFO     PASS: 783555639
+2023-11-28 11:26:30,761 root         ERROR    NOT_FOUND_CODE: 123456
+2023-11-28 11:28:32,041 root         INFO     GOOD_DATE: 783555639
+2023-11-28 11:28:32,042 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 11:28:36,942 root         INFO     PASS: 783555639
+2023-11-28 11:37:54,894 root         INFO     GOOD_DATE: 783555639
+2023-11-28 11:37:54,899 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-28 11:37:55,850 root         INFO     PASS: 783555639
+2023-11-30 15:23:03,555 root         INFO     GOOD_DATE: 783555639
+2023-11-30 15:23:03,558 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-30 15:23:03,659 root         INFO     PASS: 783555639
+2023-11-30 15:23:58,734 root         INFO     GOOD_DATE: 783555639
+2023-11-30 15:23:58,735 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-30 15:23:58,825 root         INFO     PASS: 783555639
+2023-11-30 15:25:31,420 root         INFO     GOOD_DATE: 783555639
+2023-11-30 15:25:31,423 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-30 15:25:31,508 root         INFO     PASS: 783555639
+2023-11-30 15:26:12,844 root         INFO     GOOD_DATE: 783555639
+2023-11-30 15:26:12,847 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-30 15:26:13,031 root         INFO     PASS: 783555639
+2023-11-30 15:26:35,258 root         INFO     GOOD_DATE: 783555639
+2023-11-30 15:26:35,260 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-11-30 15:26:36,693 root         INFO     PASS: 783555639
+2023-12-06 13:21:18,048 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 13:22:50,931 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 13:24:02,555 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:24:02,565 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:25:11,731 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:25:11,739 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:25:31,332 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:25:31,339 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:26:15,072 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:26:15,080 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:27:48,935 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:27:48,940 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:32:19,805 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:32:19,814 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:33:38,833 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:33:38,840 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:34:50,095 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:34:50,102 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:35:53,175 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:35:53,183 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:36:24,051 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:36:24,058 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:36:53,318 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:36:53,324 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:39:24,272 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:39:24,279 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:50:08,131 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:50:08,138 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:50:36,378 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:50:36,397 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:51:31,773 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:51:31,781 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:52:02,820 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:52:02,830 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:52:54,786 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:52:54,794 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:53:17,309 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:53:17,324 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:53:47,170 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:53:47,177 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:53:55,106 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:53:55,117 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:53:59,208 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:53:59,219 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:54:01,946 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:54:01,962 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:54:18,574 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:54:18,589 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:54:26,597 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:54:26,602 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:54:56,281 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:54:56,295 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:54:59,231 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:54:59,245 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:55:36,665 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:55:36,675 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:55:50,274 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:55:50,284 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:57:12,828 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:57:12,834 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 13:59:50,505 root         INFO     GOOD_DATE: 783555639
+2023-12-06 13:59:50,512 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:00:04,492 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:00:04,497 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:00:07,207 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:00:07,217 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:00:33,613 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:00:33,627 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:00:37,924 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:00:37,940 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:02:59,154 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:02:59,167 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:04:29,676 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:04:29,683 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:04:57,017 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:04:57,024 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:05:14,869 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:05:14,878 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:06:00,821 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:06:00,828 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:06:48,557 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:06:48,563 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:07:04,413 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:07:04,420 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:07:12,657 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:07:12,670 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:08:55,397 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:08:55,403 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:09:12,221 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:09:12,226 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:09:44,772 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:09:44,781 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:10:10,804 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:10:10,810 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:10:25,669 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:10:25,682 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:10:35,390 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:10:35,397 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:10:58,231 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:10:58,238 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:11:07,972 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:11:07,980 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:11:21,041 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:11:21,048 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:11:28,579 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:11:28,587 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:11:48,460 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:11:48,467 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:11:58,525 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:11:58,534 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:14:30,627 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:14:30,634 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:21:56,590 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:21:56,596 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:21:59,386 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:21:59,395 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:22:10,018 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:22:10,024 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:22:43,118 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:22:43,123 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:23:25,162 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:23:25,169 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:26:18,521 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:26:18,527 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:27:55,807 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:27:55,814 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:28:06,671 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:28:06,682 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:31:04,953 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:31:04,962 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:31:14,205 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:31:14,214 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:31:17,373 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:31:17,379 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:33:12,351 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:33:12,358 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:33:21,117 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:33:21,121 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:34:16,715 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:34:16,723 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:34:26,112 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:34:26,121 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:35:05,636 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:35:05,643 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:35:11,529 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:35:11,533 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:35:19,270 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:35:19,276 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:35:41,339 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:35:41,346 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:36:25,372 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:36:25,385 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:36:31,467 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:36:31,475 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:36:38,226 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:36:38,237 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:36:46,712 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:36:46,719 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:38:22,802 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:38:22,809 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:42:55,689 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:42:55,696 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:43:38,004 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:43:38,015 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:43:46,970 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:43:46,980 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:44:43,845 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:44:43,850 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:44:51,427 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:44:51,437 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:47:42,436 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:47:42,443 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:47:50,659 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:47:50,669 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:48:46,772 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:48:46,778 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:49:32,363 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:49:32,369 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:49:40,188 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:49:40,199 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:52:51,080 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:52:51,091 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:52:58,951 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:52:58,962 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:53:34,820 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:53:34,827 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:53:58,235 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:53:58,241 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:54:30,698 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:54:30,704 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:57:38,530 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:57:38,538 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:58:31,489 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:58:31,495 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 14:59:06,204 root         INFO     GOOD_DATE: 783555639
+2023-12-06 14:59:06,211 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:21:57,468 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:21:57,477 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:22:07,330 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:22:07,337 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:24:34,990 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:24:34,996 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:24:54,750 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:24:54,757 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:25:06,738 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:25:06,753 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:26:12,661 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:26:12,668 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:32:14,009 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:32:14,015 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:32:46,799 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:32:46,806 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:32:59,399 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:32:59,404 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:34:41,671 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:34:41,677 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:42:48,927 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:42:48,938 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:45:01,954 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:45:01,960 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 15:45:11,780 root         INFO     GOOD_DATE: 783555639
+2023-12-06 15:45:11,789 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:09:06,451 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:09:06,458 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:09:47,597 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:09:47,605 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:11:14,771 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:11:14,782 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:13:54,899 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:13:54,907 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:15:27,622 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:15:27,635 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:15:52,043 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:15:52,059 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:16:20,593 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:16:20,607 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:16:28,430 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:16:28,435 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:17:46,818 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:17:46,824 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:28:12,735 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:28:12,755 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:37:16,351 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:37:16,357 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:38:12,531 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:38:12,542 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:40:13,010 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:40:13,022 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:40:20,301 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:40:20,308 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:40:35,913 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:40:35,929 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:41:17,513 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:41:17,520 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:41:18,373 root         INFO     PASS: 783555639
+2023-12-06 16:41:39,417 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:41:39,427 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:41:46,275 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:41:46,286 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:41:47,147 root         INFO     PASS: 783555639
+2023-12-06 16:43:07,461 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:43:07,473 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:43:08,295 root         INFO     PASS: 783555639
+2023-12-06 16:43:44,206 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:43:44,213 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:43:44,988 root         INFO     PASS: 783555639
+2023-12-06 16:44:02,622 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:44:02,630 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:44:03,471 root         INFO     PASS: 783555639
+2023-12-06 16:45:12,181 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:45:12,190 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:45:13,062 root         INFO     PASS: 783555639
+2023-12-06 16:45:30,754 root         INFO     GOOD_DATE: 783555639
+2023-12-06 16:45:30,763 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 16:45:31,720 root         INFO     PASS: 783555639
+2023-12-06 17:18:12,055 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:18:12,061 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:18:12,933 root         INFO     PASS: 783555639
+2023-12-06 17:19:47,630 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:19:47,636 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:19:58,988 root         INFO     PASS: 783555639
+2023-12-06 17:20:46,696 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:20:46,703 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:20:58,035 root         INFO     PASS: 783555639
+2023-12-06 17:22:18,101 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:22:18,114 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:22:29,457 root         INFO     PASS: 783555639
+2023-12-06 17:29:56,727 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:29:56,740 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:32:32,200 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:32:32,207 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:32:42,178 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:32:42,188 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:34:16,763 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:34:16,771 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:37:16,493 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:37:16,501 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:37:59,814 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:37:59,823 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:38:00,059 root         INFO     PASS: 783555639
+2023-12-06 17:38:11,218 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:38:11,227 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:38:22,606 root         INFO     PASS: 783555639
+2023-12-06 17:38:50,204 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:38:50,216 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:39:01,596 root         INFO     PASS: 783555639
+2023-12-06 17:39:18,951 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:39:18,965 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:39:30,366 root         INFO     CORRECT: 783555639
+2023-12-06 17:40:57,843 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:40:57,855 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:41:09,099 root         INFO     CORRECT: 783555639
+2023-12-06 17:43:19,725 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:43:19,735 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:43:31,042 root         INFO     CORRECT: 783555639
+2023-12-06 17:43:37,474 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:43:37,489 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:43:37,992 root         DEBUG    Docker has started: b'5064ebaa50e6fade12556de1feef577e0e86a66a0be23f16670d2acbcb21cbf6\n' for 783555639
+2023-12-06 17:43:48,769 root         DEBUG    Docker has stoped: b'5064ebaa50e6fade12556de1feef577e0e86a66a0be23f16670d2acbcb21cbf6\n' for 783555639
+2023-12-06 17:43:48,798 root         INFO     CORRECT: 783555639
+2023-12-06 17:45:41,624 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:45:41,629 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:45:42,084 root         DEBUG    Docker has started: 2fd53f599d7e61a03a176aa3058e9bac11374e66e0fa3921bbe36614901bc30e for 783555639
+2023-12-06 17:45:52,937 root         DEBUG    Docker has stoped: 2fd53f599d7e61a03a176aa3058e9bac11374e66e0fa3921bbe36614901bc30e for 783555639
+2023-12-06 17:45:52,976 root         INFO     CORRECT: 783555639
+2023-12-06 17:47:12,892 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:47:12,903 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:47:13,346 root         DEBUG    Docker has started: 510604e80a0263ae1167bfba18448e48117ece3ba023f098bdbc60d628a94e68 for 783555639
+2023-12-06 17:47:24,164 root         DEBUG    Docker has stoped: 510604e80a0263ae1167bfba18448e48117ece3ba023f098bdbc60d628a94e68 for 783555639
+2023-12-06 17:47:24,196 root         INFO     CORRECT: 783555639
+2023-12-06 17:47:46,659 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:47:46,670 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:47:47,145 root         DEBUG    Docker has started: 4b27355aac1b4b78a44042a686fa76948c430afa1ccc25c508d9a34dd148529d for 783555639
+2023-12-06 17:47:57,943 root         DEBUG    Docker has stoped: 4b27355aac1b4b78a44042a686fa76948c430afa1ccc25c508d9a34dd148529d for 783555639
+2023-12-06 17:47:57,979 root         INFO     PASS: 783555639
+2023-12-06 17:48:24,806 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:48:24,816 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:48:25,275 root         DEBUG    Docker has started: 29ce09411a6627c94224c3a7ce6290e9332c1c9e993e561cd8f9b388842def26 for 783555639
+2023-12-06 17:48:36,137 root         DEBUG    Docker has stoped: 29ce09411a6627c94224c3a7ce6290e9332c1c9e993e561cd8f9b388842def26 for 783555639
+2023-12-06 17:48:36,162 root         INFO     CORRECT: 783555639
+2023-12-06 17:49:48,092 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:49:48,099 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:49:48,563 root         DEBUG    Docker has started: f9b07a02a979e3564006ff4d12084f201ac21acc6faa3f28f5ec83646c4c60b2 for 783555639
+2023-12-06 17:49:49,430 root         DEBUG    Docker has stoped: f9b07a02a979e3564006ff4d12084f201ac21acc6faa3f28f5ec83646c4c60b2 for 783555639
+2023-12-06 17:49:49,460 root         INFO     CORRECT: 783555639
+2023-12-06 17:51:19,978 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:51:19,986 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:52:43,819 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:52:43,826 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:52:43,866 root         ERROR    TEST_NOT_FOUND: 2 user: 783555639
+2023-12-06 17:52:49,027 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:52:49,035 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:52:49,464 root         DEBUG    Docker has started: c653761ac9e30066045f9a085bb225349a594d9204611583a073c2b00d949666 for 783555639
+2023-12-06 17:52:50,396 root         DEBUG    Docker has stoped: c653761ac9e30066045f9a085bb225349a594d9204611583a073c2b00d949666 for 783555639
+2023-12-06 17:52:50,429 root         INFO     CORRECT: 783555639
+2023-12-06 17:52:55,447 root         ERROR    NOT_FOUND_CODE: 12345
+2023-12-06 17:53:00,278 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:53:00,285 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:53:00,692 root         DEBUG    Docker has started: 97994d5fedae3e98921c1b8e1eaef89f0a630db611089c4d5d6bb0c9aad6f7dc for 783555639
+2023-12-06 17:53:01,551 root         DEBUG    Docker has stoped: 97994d5fedae3e98921c1b8e1eaef89f0a630db611089c4d5d6bb0c9aad6f7dc for 783555639
+2023-12-06 17:53:01,587 root         INFO     CORRECT: 783555639
+2023-12-06 17:55:57,812 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:55:57,818 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:55:58,185 root         DEBUG    Docker has started: ce0e8483b76c56df0c46e7c9f458e1639a685f8727f286374a67af15290eca0d for 783555639
+2023-12-06 17:55:59,030 root         DEBUG    Docker has stoped: ce0e8483b76c56df0c46e7c9f458e1639a685f8727f286374a67af15290eca0d for 783555639
+2023-12-06 17:56:08,581 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:56:08,589 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:56:09,029 root         DEBUG    Docker has started: da74aaba846a92b510b9e02961e4e711fc23d617c842c51257802b3ed7cb62cf for 783555639
+2023-12-06 17:56:09,871 root         DEBUG    Docker has stoped: da74aaba846a92b510b9e02961e4e711fc23d617c842c51257802b3ed7cb62cf for 783555639
+2023-12-06 17:56:47,287 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:56:47,297 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:56:47,723 root         DEBUG    Docker has started: 811afe1d9c6de365b4f7d635c5e4b71e9eaa0636f554e4e4a61a1ecc187403e9 for 783555639
+2023-12-06 17:56:48,538 root         DEBUG    Docker has stoped: 811afe1d9c6de365b4f7d635c5e4b71e9eaa0636f554e4e4a61a1ecc187403e9 for 783555639
+2023-12-06 17:56:48,571 root         INFO     CORRECT: 783555639
+2023-12-06 17:57:14,833 root         ERROR    NOT_ALL_ELEMENTS
+2023-12-06 17:57:18,180 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:57:18,186 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:57:18,582 root         DEBUG    Docker has started: d91c9f1f0d1d9a5f617aea5566e3f04de4a6a720f559eacd22b34510c1555cdb for 783555639
+2023-12-06 17:57:19,453 root         DEBUG    Docker has stoped: d91c9f1f0d1d9a5f617aea5566e3f04de4a6a720f559eacd22b34510c1555cdb for 783555639
+2023-12-06 17:57:19,479 root         INFO     CORRECT: 783555639
+2023-12-06 17:57:23,058 root         ERROR    NOT_ALL_ELEMENTS
+2023-12-06 17:57:24,846 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:57:24,853 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:57:25,238 root         DEBUG    Docker has started: 4f1f158b5403fa938dc8949629fad5a16db4819a6e79a57a9e77c9a4f9899ef6 for 783555639
+2023-12-06 17:57:26,111 root         DEBUG    Docker has stoped: 4f1f158b5403fa938dc8949629fad5a16db4819a6e79a57a9e77c9a4f9899ef6 for 783555639
+2023-12-06 17:57:26,141 root         INFO     CORRECT: 783555639
+2023-12-06 17:57:30,268 root         ERROR    NOT_ALL_ELEMENTS
+2023-12-06 17:57:36,228 root         INFO     GOOD_DATE: 783555639
+2023-12-06 17:57:36,238 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 17:57:36,660 root         DEBUG    Docker has started: a0a27ea0b7b8e83e04d440e9341eab89f970b33725b69388c64ff04ad9d48f72 for 783555639
+2023-12-06 17:57:37,544 root         DEBUG    Docker has stoped: a0a27ea0b7b8e83e04d440e9341eab89f970b33725b69388c64ff04ad9d48f72 for 783555639
+2023-12-06 17:57:37,580 root         INFO     CORRECT: 783555639
+2023-12-06 19:03:38,661 root         INFO     GOOD_DATE: 783555639
+2023-12-06 19:03:38,686 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 19:03:39,620 root         DEBUG    Docker has started: f5f27e1b33fbb9050893e4425ed0ac38c66241f71542a58f8aefece73d0c2fe0 for 783555639
+2023-12-06 19:03:40,780 root         DEBUG    Docker has stoped: f5f27e1b33fbb9050893e4425ed0ac38c66241f71542a58f8aefece73d0c2fe0 for 783555639
+2023-12-06 19:03:40,843 root         INFO     CORRECT: 783555639
+2023-12-06 19:05:03,983 root         INFO     GOOD_DATE: 783555639
+2023-12-06 19:05:04,016 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 19:05:04,607 root         DEBUG    Docker has started: d2b2808aa355290b13ca64c3237edf628f13c7c67880ab8c480311b9452c9318 for 783555639
+2023-12-06 19:05:05,760 root         DEBUG    Docker has stoped: d2b2808aa355290b13ca64c3237edf628f13c7c67880ab8c480311b9452c9318 for 783555639
+2023-12-06 19:05:05,795 root         INFO     CORRECT: 783555639
+2023-12-06 19:05:15,170 root         INFO     GOOD_DATE: 783555639
+2023-12-06 19:05:15,201 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 19:05:15,684 root         DEBUG    Docker has started: 56d3d19c42e776dad70e6b8d4c35443dbc242781f6bc145a0d14b9bca9093d07 for 783555639
+2023-12-06 19:05:16,829 root         DEBUG    Docker has stoped: 56d3d19c42e776dad70e6b8d4c35443dbc242781f6bc145a0d14b9bca9093d07 for 783555639
+2023-12-06 19:05:16,866 root         INFO     CORRECT: 783555639
+2023-12-06 19:07:24,560 root         INFO     GOOD_DATE: 783555639
+2023-12-06 19:07:24,577 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 19:07:25,262 root         DEBUG    Docker has started: 176cdd285a9fb3d649a48cba1549d2005f9a6127b81d1830760ac55c5e836317 for 783555639
+2023-12-06 19:07:26,679 root         DEBUG    Docker has stoped: 176cdd285a9fb3d649a48cba1549d2005f9a6127b81d1830760ac55c5e836317 for 783555639
+2023-12-06 19:07:26,787 root         INFO     CORRECT: 783555639
+2023-12-06 19:12:14,126 root         ERROR    NOT_FOUND_CODE: 123454
+2023-12-06 20:31:22,464 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 20:31:48,799 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 20:37:09,937 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 20:37:35,326 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 20:40:05,243 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 20:42:47,952 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 20:42:55,913 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-06 20:43:45,144 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:43:45,175 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 20:43:46,519 root         DEBUG    Docker has started: 0c54cc9b26588b49371c6a32cd3e07615eb7d9bf47785b4b002da467ea4b81d1 for 783555639
+2023-12-06 20:43:47,510 root         DEBUG    Docker has stoped: 0c54cc9b26588b49371c6a32cd3e07615eb7d9bf47785b4b002da467ea4b81d1 for 783555639
+2023-12-06 20:44:20,735 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:44:20,758 root         INFO     FILE_UPLOADED: task.py user: 783555639
+2023-12-06 20:44:21,220 root         DEBUG    Docker has started: 6d10a087202dab892d2bef70152bf6a309b0577b492ae832081e9005bfc3a270 for 783555639
+2023-12-06 20:44:22,138 root         DEBUG    Docker has stoped: 6d10a087202dab892d2bef70152bf6a309b0577b492ae832081e9005bfc3a270 for 783555639
+2023-12-06 20:45:40,881 root         ERROR    NOT_FOUND_CODE: 123454
+2023-12-06 20:45:46,110 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:45:46,117 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:47:13,642 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:47:13,650 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:49:12,844 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:49:12,852 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:49:13,336 root         DEBUG    Docker has started: 651e16e9c132b2d504fb1a970761e14088d827a5448cd451c500950afc00c00a for 783555639
+2023-12-06 20:49:14,145 root         DEBUG    Docker has stoped: 651e16e9c132b2d504fb1a970761e14088d827a5448cd451c500950afc00c00a for 783555639
+2023-12-06 20:50:09,713 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:50:09,718 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:50:10,132 root         DEBUG    Docker has started: 27aeb220bdd438510b60ed29ac8eb2c4bc20b8d822409d806b85629ec6b3dc97 for 783555639
+2023-12-06 20:50:10,870 root         DEBUG    Docker has stoped: 27aeb220bdd438510b60ed29ac8eb2c4bc20b8d822409d806b85629ec6b3dc97 for 783555639
+2023-12-06 20:50:14,394 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:50:14,401 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:50:14,860 root         DEBUG    Docker has started: 946c054b5fbb8f12d6bcd853f63ba9c44e8b0c247565ce810f29aad8743bd4f1 for 783555639
+2023-12-06 20:50:15,707 root         DEBUG    Docker has stoped: 946c054b5fbb8f12d6bcd853f63ba9c44e8b0c247565ce810f29aad8743bd4f1 for 783555639
+2023-12-06 20:51:26,850 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:51:26,857 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:51:27,270 root         DEBUG    Docker has started: 0196158a44ff2ecca9db6d60099934b7c12600d59973c2cba43799168041a3de for 783555639
+2023-12-06 20:51:28,025 root         DEBUG    Docker has stoped: 0196158a44ff2ecca9db6d60099934b7c12600d59973c2cba43799168041a3de for 783555639
+2023-12-06 20:52:07,307 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:52:07,312 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:52:07,712 root         DEBUG    Docker has started: 5d9f2babb8980247ddab4bd49b28472516d09e304b033356b641242dc400e542 for 783555639
+2023-12-06 20:52:08,440 root         DEBUG    Docker has stoped: 5d9f2babb8980247ddab4bd49b28472516d09e304b033356b641242dc400e542 for 783555639
+2023-12-06 20:52:08,462 root         INFO     PASS: 783555639
+2023-12-06 20:52:27,528 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:52:27,533 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:52:27,951 root         DEBUG    Docker has started: ee1af9af819e7aedd49dc71ac0079e49a06af95bceb453e5df805b8726731a64 for 783555639
+2023-12-06 20:52:28,743 root         DEBUG    Docker has stoped: ee1af9af819e7aedd49dc71ac0079e49a06af95bceb453e5df805b8726731a64 for 783555639
+2023-12-06 20:52:28,779 root         INFO     PASS: 783555639
+2023-12-06 20:53:43,880 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:53:43,886 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:53:44,302 root         DEBUG    Docker has started: ea922d095af1087225128606dfc93cf7311ca433a736e5f0a0abe988233112c5 for 783555639
+2023-12-06 20:53:45,035 root         DEBUG    Docker has stoped: ea922d095af1087225128606dfc93cf7311ca433a736e5f0a0abe988233112c5 for 783555639
+2023-12-06 20:53:45,061 root         INFO     CORRECT: 783555639
+2023-12-06 20:53:48,406 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:53:48,411 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:53:48,775 root         DEBUG    Docker has started: a1d672200c930bdc4afe5046b801249921fa5d255a92cca486c319b4c4f4a9fa for 783555639
+2023-12-06 20:53:49,507 root         DEBUG    Docker has stoped: a1d672200c930bdc4afe5046b801249921fa5d255a92cca486c319b4c4f4a9fa for 783555639
+2023-12-06 20:53:49,527 root         INFO     PASS: 783555639
+2023-12-06 20:54:03,383 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:54:03,387 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:54:03,768 root         DEBUG    Docker has started: 85d85aabc7113321e985698a9fcd0c4b49c94c96410a00ab634a5c6ed5d4b9e1 for 783555639
+2023-12-06 20:54:04,528 root         DEBUG    Docker has stoped: 85d85aabc7113321e985698a9fcd0c4b49c94c96410a00ab634a5c6ed5d4b9e1 for 783555639
+2023-12-06 20:54:04,548 root         INFO     PASS: 783555639
+2023-12-06 20:54:13,906 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:54:13,912 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:54:14,333 root         DEBUG    Docker has started: 6eb1dfd9d7193e4800bf1ae4b0ba08c663739283294e000d6737167253d4af21 for 783555639
+2023-12-06 20:54:15,081 root         DEBUG    Docker has stoped: 6eb1dfd9d7193e4800bf1ae4b0ba08c663739283294e000d6737167253d4af21 for 783555639
+2023-12-06 20:54:15,110 root         INFO     CORRECT: 783555639
+2023-12-06 20:54:46,582 root         ERROR    NOT_FOUND_CODE: 12345
+2023-12-06 20:54:50,951 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:54:50,957 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:54:51,350 root         DEBUG    Docker has started: 394364007d551aeaabb7b3afcf7459960c264c6d0eecf6564c2be22174d99cc1 for 783555639
+2023-12-06 20:54:52,071 root         DEBUG    Docker has stoped: 394364007d551aeaabb7b3afcf7459960c264c6d0eecf6564c2be22174d99cc1 for 783555639
+2023-12-06 20:54:52,089 root         INFO     PASS: 783555639
+2023-12-06 20:55:15,698 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:55:15,706 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:55:16,087 root         DEBUG    Docker has started: bda24ba73eeb7551fa3cbab152c83fd431d0e4b3eed1db8c8412fd063203184e for 783555639
+2023-12-06 20:55:16,825 root         DEBUG    Docker has stoped: bda24ba73eeb7551fa3cbab152c83fd431d0e4b3eed1db8c8412fd063203184e for 783555639
+2023-12-06 20:55:16,848 root         INFO     CORRECT: 783555639
+2023-12-06 20:56:09,489 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:56:09,494 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:56:09,895 root         DEBUG    Docker has started: deb8f88f80518ad9ce734bafc336a358f963550e599db069d313d659f8d4fa89 for 783555639
+2023-12-06 20:56:10,588 root         DEBUG    Docker has stoped: deb8f88f80518ad9ce734bafc336a358f963550e599db069d313d659f8d4fa89 for 783555639
+2023-12-06 20:56:10,607 root         INFO     PASS: 783555639
+2023-12-06 20:56:15,384 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:56:15,391 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:56:15,805 root         DEBUG    Docker has started: 4cc94e0fed0b0860bab275e418f83fde6bd9bbe3e78636777c2857e46efdd920 for 783555639
+2023-12-06 20:56:16,573 root         DEBUG    Docker has stoped: 4cc94e0fed0b0860bab275e418f83fde6bd9bbe3e78636777c2857e46efdd920 for 783555639
+2023-12-06 20:56:16,600 root         INFO     CORRECT: 783555639
+2023-12-06 20:57:48,251 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:57:48,256 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:57:48,693 root         DEBUG    Docker has started: 3137f4c3e21e227b37b486a9ecae71cec3ed5e5ad146fb9e8e06cccd249612e6 for 783555639
+2023-12-06 20:57:49,684 root         DEBUG    Docker has stoped: 3137f4c3e21e227b37b486a9ecae71cec3ed5e5ad146fb9e8e06cccd249612e6 for 783555639
+2023-12-06 20:57:49,716 root         INFO     CORRECT: 783555639
+2023-12-06 20:58:00,130 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:58:00,134 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:58:00,462 root         DEBUG    Docker has started: ee7cba82bfd008c562769150c8530fae2cba622c7e2c5acc32c801412dfbac24 for 783555639
+2023-12-06 20:58:01,227 root         DEBUG    Docker has stoped: ee7cba82bfd008c562769150c8530fae2cba622c7e2c5acc32c801412dfbac24 for 783555639
+2023-12-06 20:58:01,248 root         INFO     PASS: 783555639
+2023-12-06 20:58:15,845 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:58:15,851 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:58:16,212 root         DEBUG    Docker has started: c41aa2ce38488a540f91835fa2f36e2a4cc6ecb3787ebd9c8d1665e51e48e075 for 783555639
+2023-12-06 20:58:17,011 root         DEBUG    Docker has stoped: c41aa2ce38488a540f91835fa2f36e2a4cc6ecb3787ebd9c8d1665e51e48e075 for 783555639
+2023-12-06 20:58:17,031 root         INFO     PASS: 783555639
+2023-12-06 20:59:10,532 root         INFO     GOOD_DATE: 783555639
+2023-12-06 20:59:10,536 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 20:59:10,891 root         DEBUG    Docker has started: 64e6bd2d561aff967a623f5c9351764735eb3e2760e99aed219b8281e79c4c9e for 783555639
+2023-12-06 20:59:11,648 root         DEBUG    Docker has stoped: 64e6bd2d561aff967a623f5c9351764735eb3e2760e99aed219b8281e79c4c9e for 783555639
+2023-12-06 20:59:11,673 root         INFO     PASS: 783555639
+2023-12-06 21:00:40,787 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:00:40,793 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:00:41,183 root         DEBUG    Docker has started: ff0d61cc6d24f8637aa2441b5bfc8a2cbde98c170f2449534e1f7d22c60f25a7 for 783555639
+2023-12-06 21:00:42,069 root         DEBUG    Docker has stoped: ff0d61cc6d24f8637aa2441b5bfc8a2cbde98c170f2449534e1f7d22c60f25a7 for 783555639
+2023-12-06 21:00:42,120 root         INFO     CORRECT: 783555639
+2023-12-06 21:00:51,394 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:00:51,407 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:00:51,809 root         DEBUG    Docker has started: 26ebbaab14df99fb0956e17b94048fb5d311ef95f602c1a672f51eb02b04aef4 for 783555639
+2023-12-06 21:00:52,761 root         DEBUG    Docker has stoped: 26ebbaab14df99fb0956e17b94048fb5d311ef95f602c1a672f51eb02b04aef4 for 783555639
+2023-12-06 21:00:52,793 root         INFO     CORRECT: 783555639
+2023-12-06 21:01:01,771 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:01:01,775 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:01:02,159 root         DEBUG    Docker has started: f87ef46ceb37c0401cf227f064bbb9ce066549fadf4f18e9a66c022dc4a8dd26 for 783555639
+2023-12-06 21:01:02,953 root         DEBUG    Docker has stoped: f87ef46ceb37c0401cf227f064bbb9ce066549fadf4f18e9a66c022dc4a8dd26 for 783555639
+2023-12-06 21:01:02,991 root         INFO     PASS: 783555639
+2023-12-06 21:02:27,385 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:02:27,391 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:02:27,768 root         DEBUG    Docker has started: 362459c090e0567b9c1ee64d60e704f24528f05c0f649dbd6a164af2b49e3728 for 783555639
+2023-12-06 21:02:28,652 root         DEBUG    Docker has stoped: 362459c090e0567b9c1ee64d60e704f24528f05c0f649dbd6a164af2b49e3728 for 783555639
+2023-12-06 21:02:28,676 root         INFO     PASS: 783555639
+2023-12-06 21:02:34,226 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:02:34,233 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:02:34,623 root         DEBUG    Docker has started: d0d778d5570263ed26f5acf7f3385f36ada6e7692f7e0517ae542e275d52d7a8 for 783555639
+2023-12-06 21:02:35,455 root         DEBUG    Docker has stoped: d0d778d5570263ed26f5acf7f3385f36ada6e7692f7e0517ae542e275d52d7a8 for 783555639
+2023-12-06 21:02:35,483 root         INFO     PASS: 783555639
+2023-12-06 21:02:39,185 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:02:39,192 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:02:39,518 root         DEBUG    Docker has started: 135a56fc83c093e7a0256047da75007f241bc07d801641b890696a23d9ffd327 for 783555639
+2023-12-06 21:02:40,375 root         DEBUG    Docker has stoped: 135a56fc83c093e7a0256047da75007f241bc07d801641b890696a23d9ffd327 for 783555639
+2023-12-06 21:02:40,398 root         INFO     PASS: 783555639
+2023-12-06 21:09:23,772 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:09:23,781 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:09:24,196 root         DEBUG    Docker has started: d1289e029ce650083d7b07321ba95e1286bb6e4bcda296e5b7c8b8f27be23a2c for 783555639
+2023-12-06 21:09:25,028 root         DEBUG    Docker has stoped: d1289e029ce650083d7b07321ba95e1286bb6e4bcda296e5b7c8b8f27be23a2c for 783555639
+2023-12-06 21:09:25,061 root         INFO     PASS: 783555639
+2023-12-06 21:27:47,242 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:27:47,262 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:27:47,623 root         DEBUG    Docker has started: a69b6ce1f03c9a830ed93f15043365afe8aa19396cd85e7a8aa1a200cf1745db for 783555639
+2023-12-06 21:27:48,618 root         DEBUG    Docker has stoped: a69b6ce1f03c9a830ed93f15043365afe8aa19396cd85e7a8aa1a200cf1745db for 783555639
+2023-12-06 21:27:48,666 root         INFO     PASS: 783555639
+2023-12-06 21:28:42,760 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:28:42,781 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:28:43,153 root         DEBUG    Docker has started: c453dd9f2686d6674dc163ec46f3c1873252dbfe8b6d49190d3c288dfd9cfda7 for 783555639
+2023-12-06 21:28:44,033 root         DEBUG    Docker has stoped: c453dd9f2686d6674dc163ec46f3c1873252dbfe8b6d49190d3c288dfd9cfda7 for 783555639
+2023-12-06 21:28:44,073 root         INFO     CORRECT: 783555639
+2023-12-06 21:36:27,432 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:36:27,453 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:36:27,897 root         DEBUG    Docker has started: 1eacfca478e4e4e73dd39ef84a4203232a4437e59d8e47127c1f82f8c7d5f387 for 783555639
+2023-12-06 21:36:28,788 root         DEBUG    Docker has stoped: 1eacfca478e4e4e73dd39ef84a4203232a4437e59d8e47127c1f82f8c7d5f387 for 783555639
+2023-12-06 21:36:28,820 root         INFO     CORRECT: 783555639
+2023-12-06 21:37:45,670 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:37:45,678 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:37:46,051 root         DEBUG    Docker has started: 8ba1552e36788f9187bf0aeb21567b057578082fa08fad680404230f72dae656 for 783555639
+2023-12-06 21:37:46,885 root         DEBUG    Docker has stoped: 8ba1552e36788f9187bf0aeb21567b057578082fa08fad680404230f72dae656 for 783555639
+2023-12-06 21:37:46,924 root         INFO     CORRECT: 783555639
+2023-12-06 21:37:58,584 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:37:58,593 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:37:59,024 root         DEBUG    Docker has started: fbf5f74345105119dd12c0d16ee944a2cf8fd5a1dfbe5dcd62fbf001aca4a7d9 for 783555639
+2023-12-06 21:37:59,855 root         DEBUG    Docker has stoped: fbf5f74345105119dd12c0d16ee944a2cf8fd5a1dfbe5dcd62fbf001aca4a7d9 for 783555639
+2023-12-06 21:37:59,882 root         INFO     CORRECT: 783555639
+2023-12-06 21:38:18,281 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:38:18,288 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:38:18,728 root         DEBUG    Docker has started: 7ab0ee32628fb82da0e2a1944e0831793b1c5ab813bb57b287acf39bb8aeb5d8 for 783555639
+2023-12-06 21:38:19,638 root         DEBUG    Docker has stoped: 7ab0ee32628fb82da0e2a1944e0831793b1c5ab813bb57b287acf39bb8aeb5d8 for 783555639
+2023-12-06 21:38:19,686 root         INFO     CORRECT: 783555639
+2023-12-06 21:38:31,511 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:38:31,517 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:38:31,926 root         DEBUG    Docker has started: dae01e9731648fc085df0db88b8764bc8904319d07e0dfc8deb976d05752d21e for 783555639
+2023-12-06 21:38:32,798 root         DEBUG    Docker has stoped: dae01e9731648fc085df0db88b8764bc8904319d07e0dfc8deb976d05752d21e for 783555639
+2023-12-06 21:38:32,832 root         INFO     CORRECT: 783555639
+2023-12-06 21:39:12,536 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:39:12,541 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:39:12,909 root         DEBUG    Docker has started: 8cf7b4898dfddd2113a56a31734d14530c9eeca66e4dfe43fda6329df2835b0b for 783555639
+2023-12-06 21:39:13,811 root         DEBUG    Docker has stoped: 8cf7b4898dfddd2113a56a31734d14530c9eeca66e4dfe43fda6329df2835b0b for 783555639
+2023-12-06 21:39:13,848 root         INFO     CORRECT: 783555639
+2023-12-06 21:40:28,121 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:40:28,128 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:40:28,493 root         DEBUG    Docker has started: 08df41fbb5041576baba69ca33721253db98ad66de498912288eec26d8274389 for 783555639
+2023-12-06 21:40:29,428 root         DEBUG    Docker has stoped: 08df41fbb5041576baba69ca33721253db98ad66de498912288eec26d8274389 for 783555639
+2023-12-06 21:40:29,470 root         INFO     CORRECT: 783555639
+2023-12-06 21:40:47,438 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:40:47,444 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:40:47,847 root         DEBUG    Docker has started: e2bf1026f0912ba7d5c3b5e4bb26699a95ab932a2667ee82b4baa55f6e4bf230 for 783555639
+2023-12-06 21:40:48,727 root         DEBUG    Docker has stoped: e2bf1026f0912ba7d5c3b5e4bb26699a95ab932a2667ee82b4baa55f6e4bf230 for 783555639
+2023-12-06 21:40:48,759 root         INFO     CORRECT: 783555639
+2023-12-06 21:40:53,034 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:40:53,039 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:40:53,426 root         DEBUG    Docker has started: 8c767b1cb5f65dd73822597dffeb07750f7f2edd3a1b5367a209ce06cde0dd75 for 783555639
+2023-12-06 21:40:54,334 root         DEBUG    Docker has stoped: 8c767b1cb5f65dd73822597dffeb07750f7f2edd3a1b5367a209ce06cde0dd75 for 783555639
+2023-12-06 21:40:54,369 root         INFO     PASS: 783555639
+2023-12-06 21:40:57,014 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:40:57,020 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:40:57,389 root         DEBUG    Docker has started: 5ae5e7e89d96f659198118cd3a6d7d7de6cc648fd42aca7bb3d1d571a61e7b8c for 783555639
+2023-12-06 21:40:58,223 root         DEBUG    Docker has stoped: 5ae5e7e89d96f659198118cd3a6d7d7de6cc648fd42aca7bb3d1d571a61e7b8c for 783555639
+2023-12-06 21:40:58,272 root         INFO     CORRECT: 783555639
+2023-12-06 21:41:01,889 root         ERROR    NOT_FOUND_CODE: 12345
+2023-12-06 21:41:04,227 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:41:04,233 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:41:04,619 root         DEBUG    Docker has started: 3659adb8c8e5bb2cda9ab3f320cc09ab843f2ecf58fdeb1a46881b5f4600faaf for 783555639
+2023-12-06 21:41:05,439 root         DEBUG    Docker has stoped: 3659adb8c8e5bb2cda9ab3f320cc09ab843f2ecf58fdeb1a46881b5f4600faaf for 783555639
+2023-12-06 21:41:05,477 root         INFO     CORRECT: 783555639
+2023-12-06 21:43:58,004 root         INFO     GOOD_DATE: 783555639
+2023-12-06 21:43:58,010 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-06 21:43:58,422 root         DEBUG    Docker has started: f028f1e1425f512f4dbede0db2a2bcd4c4d046cbe0be262a9e09b3852ba7925b for 783555639
+2023-12-06 21:43:59,345 root         DEBUG    Docker has stoped: f028f1e1425f512f4dbede0db2a2bcd4c4d046cbe0be262a9e09b3852ba7925b for 783555639
+2023-12-06 21:43:59,379 root         INFO     CORRECT: 783555639
+2023-12-12 17:31:13,577 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-12 17:34:53,002 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:34:53,007 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:34:53,028 root         ERROR    TEST_NOT_FOUND: 1 user: 783555639
+2023-12-12 17:35:49,997 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:35:50,002 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:35:58,733 root         DEBUG    Docker has started: a27da589281dce9308ab6628559db3bd0a55903d84e542eaabb0702818aca84a for 783555639
+2023-12-12 17:35:59,517 root         DEBUG    Docker has stoped: a27da589281dce9308ab6628559db3bd0a55903d84e542eaabb0702818aca84a for 783555639
+2023-12-12 17:35:59,561 root         INFO     CORRECT: 783555639
+2023-12-12 17:37:54,586 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:37:54,623 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:37:55,173 root         DEBUG    Docker has started: 020eb42f366981d84775221c13a8f05ddf976626597ce08c1aeff68e92b24222 for 783555639
+2023-12-12 17:37:56,170 root         DEBUG    Docker has stoped: 020eb42f366981d84775221c13a8f05ddf976626597ce08c1aeff68e92b24222 for 783555639
+2023-12-12 17:37:56,220 root         INFO     PASS: 783555639
+2023-12-12 17:38:00,764 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:38:00,768 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:38:01,571 root         DEBUG    Docker has started: 0d6614451e7bf710fb7c3e9b33a9167d19b63f6bde69b788d5924149b416f25c for 783555639
+2023-12-12 17:38:43,704 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:38:43,709 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:38:43,767 root         DEBUG    Docker has started:  for 783555639
+2023-12-12 17:38:43,867 root         DEBUG    Docker has stoped:  for 783555639
+2023-12-12 17:38:43,889 root         INFO     PASS: 783555639
+2023-12-12 17:38:51,673 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:38:51,678 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:38:51,727 root         DEBUG    Docker has started:  for 783555639
+2023-12-12 17:38:52,309 root         DEBUG    Docker has stoped:  for 783555639
+2023-12-12 17:38:52,746 root         INFO     PASS: 783555639
+2023-12-12 17:39:09,533 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:39:09,536 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:39:10,161 root         DEBUG    Docker has started: 3e53b07faaeaef1c2d9ed2a71f4ebf60b56956f223d18a056dd5ab05026b8928 for 783555639
+2023-12-12 17:39:12,257 root         DEBUG    Docker has stoped: 3e53b07faaeaef1c2d9ed2a71f4ebf60b56956f223d18a056dd5ab05026b8928 for 783555639
+2023-12-12 17:39:12,362 root         INFO     CORRECT: 783555639
+2023-12-12 17:57:31,505 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:57:31,513 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:57:32,085 root         DEBUG    Docker has started: d6921985f42381e97c5fb9a66d8683f8ec8e03d6f8ef0fb5d93b5fe61db38df3 for 783555639
+2023-12-12 17:57:50,988 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:57:50,991 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:57:51,344 root         DEBUG    Docker has started: dad33b5205eb5220ba5fd6612cf2ba238ac5fdbaa58c570b5c19da145c5a1058 for 783555639
+2023-12-12 17:58:09,595 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:58:09,598 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:58:09,945 root         DEBUG    Docker has started: 0003d31a3a958ee2dc5bf662fe064dcd91356bb023446ca4cd278f8f2808f18c for 783555639
+2023-12-12 17:59:15,433 root         INFO     GOOD_DATE: 783555639
+2023-12-12 17:59:15,436 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 17:59:15,833 root         DEBUG    Docker has started: 43f19067138e471cc7102dbc12851aebccc54630b81063cf6b5c59a8bf9b3c7e for 783555639
+2023-12-12 18:00:20,155 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:00:20,160 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:00:20,491 root         DEBUG    Docker has started: 4590ea93b2d3263b2edeba15976e788bc43aaa4e63a5ef1cbcbcef332dc9ba4b for 783555639
+2023-12-12 18:00:50,189 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:00:50,193 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:00:50,582 root         DEBUG    Docker has started: 039792b2c6c3adb388a392392145de95fa2e7b21a670cfa726f1e44780d41104 for 783555639
+2023-12-12 18:01:24,443 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:01:24,446 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:01:24,832 root         DEBUG    Docker has started: a7c9c4e95cced92a14ecd943162bb01b85654e69ed45ff46b38a3307992f87f5 for 783555639
+2023-12-12 18:04:05,943 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:04:05,947 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:04:06,291 root         DEBUG    Docker has started: 9e09188a54960a1ecf72dab01e63bfbbe9fcc8a40b499956c22c2784f80eba54 for 783555639
+2023-12-12 18:04:55,795 root         ERROR    NOT_FOUND_CODE: 123456
+2023-12-12 18:05:15,628 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:05:15,632 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:05:15,668 root         DEBUG    Docker has started:  for 783555639
+2023-12-12 18:05:15,777 root         DEBUG    Docker has stoped:  for 783555639
+2023-12-12 18:05:15,795 root         INFO     PASS: 783555639
+2023-12-12 18:05:31,387 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:05:31,391 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:05:31,760 root         DEBUG    Docker has started: 282506bbe2c3e25c1c5eb6864e29a9142e0158f5c88acc754b705dc15523abd3 for 783555639
+2023-12-12 18:08:58,322 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:08:58,329 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:08:58,411 root         DEBUG    Docker has started:  for 783555639
+2023-12-12 18:08:58,531 root         DEBUG    Docker has stoped:  for 783555639
+2023-12-12 18:08:58,554 root         INFO     PASS: 783555639
+2023-12-12 18:09:04,956 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:09:04,960 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:09:05,368 root         DEBUG    Docker has started: 0971102044e7816896f0cf0b7c8c390cbc2882e674e1f5a8c315404c833c64ec for 783555639
+2023-12-12 18:09:26,493 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:09:26,497 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:09:26,861 root         DEBUG    Docker has started: 271cdd104e13b3b586749de67a45f253766d118bb9d5775f1b244797d146060e for 783555639
+2023-12-12 18:10:35,720 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:10:35,728 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:10:35,768 root         DEBUG    Docker has started:  for 783555639
+2023-12-12 18:10:35,870 root         DEBUG    Docker has stoped:  for 783555639
+2023-12-12 18:10:35,888 root         INFO     PASS: 783555639
+2023-12-12 18:10:43,793 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:10:43,798 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:10:44,215 root         DEBUG    Docker has started: 1ff76aa836505f7192d61e7e84262ad2a645a254392ff52e652c817d4b7555e4 for 783555639
+2023-12-12 18:11:47,437 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:11:47,441 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:11:47,482 root         DEBUG    Docker has started:  for 783555639
+2023-12-12 18:11:47,569 root         DEBUG    Docker has stoped:  for 783555639
+2023-12-12 18:11:47,585 root         INFO     PASS: 783555639
+2023-12-12 18:12:01,643 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:12:01,647 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:12:02,009 root         DEBUG    Docker has started: 6d5c6b1aba9d2f41d918401dbc8a3fe40c8db7a268c2b186c02edd0c6f0e1a20 for 783555639
+2023-12-12 18:12:02,785 root         DEBUG    Docker has stoped: 6d5c6b1aba9d2f41d918401dbc8a3fe40c8db7a268c2b186c02edd0c6f0e1a20 for 783555639
+2023-12-12 18:12:02,810 root         INFO     CORRECT: 783555639
+2023-12-12 18:24:04,343 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:24:04,348 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:24:04,714 root         DEBUG    Docker has started: 6f8e189a5171820d30084359feccf27a0f0d8903a953889ba0b6b6df930458e6 for 783555639
+2023-12-12 18:24:05,593 root         DEBUG    Docker has stoped: 6f8e189a5171820d30084359feccf27a0f0d8903a953889ba0b6b6df930458e6 for 783555639
+2023-12-12 18:24:05,621 root         INFO     CORRECT: 783555639
+2023-12-12 18:24:14,314 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:24:14,317 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:24:14,715 root         DEBUG    Docker has started: 5e71805a56dd6c40129263ea2323d828962704d2ad7a0c78fffc422e8bbebcd4 for 783555639
+2023-12-12 18:24:15,640 root         DEBUG    Docker has stoped: 5e71805a56dd6c40129263ea2323d828962704d2ad7a0c78fffc422e8bbebcd4 for 783555639
+2023-12-12 18:24:15,673 root         INFO     PASS: 783555639
+2023-12-12 18:24:23,689 root         ERROR    NOT_FOUND_CODE: 79493
+2023-12-12 18:24:27,742 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:24:27,745 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:24:28,119 root         DEBUG    Docker has started: 2bb9b6792dca55110658d92f40aa32a2f96abd1dc418e53a6aa02c6f56d67769 for 783555639
+2023-12-12 18:24:28,936 root         DEBUG    Docker has stoped: 2bb9b6792dca55110658d92f40aa32a2f96abd1dc418e53a6aa02c6f56d67769 for 783555639
+2023-12-12 18:24:28,967 root         INFO     CORRECT: 783555639
+2023-12-12 18:26:58,895 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:26:58,900 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:26:59,332 root         DEBUG    Docker has started: a6b526aa335087b72460df7efde016e9387b8e542f902ba19851f5ba12cf3119 for 783555639
+2023-12-12 18:27:00,197 root         DEBUG    Docker has stoped: a6b526aa335087b72460df7efde016e9387b8e542f902ba19851f5ba12cf3119 for 783555639
+2023-12-12 18:27:00,223 root         INFO     PASS: 783555639
+2023-12-12 18:27:10,567 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:27:10,571 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:27:11,065 root         DEBUG    Docker has started: 9820ac03c7f71df9dd3df6079a14b687618021a50b5d0791e6103ef41c7fe31e for 783555639
+2023-12-12 18:27:11,935 root         DEBUG    Docker has stoped: 9820ac03c7f71df9dd3df6079a14b687618021a50b5d0791e6103ef41c7fe31e for 783555639
+2023-12-12 18:27:11,967 root         INFO     CORRECT: 783555639
+2023-12-12 18:27:20,751 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:27:20,756 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:27:21,138 root         DEBUG    Docker has started: d7ec532baa978aa4c2c75c36ebefa368d23dbeac176bd19f9801f710bd4492e9 for 783555639
+2023-12-12 18:27:21,961 root         DEBUG    Docker has stoped: d7ec532baa978aa4c2c75c36ebefa368d23dbeac176bd19f9801f710bd4492e9 for 783555639
+2023-12-12 18:27:21,984 root         INFO     CORRECT: 783555639
+2023-12-12 18:27:31,672 root         INFO     GOOD_DATE: 783555639
+2023-12-12 18:27:31,675 root         INFO     FILE_UPLOADED: 783555639.py user: 783555639
+2023-12-12 18:27:32,067 root         DEBUG    Docker has started: a602515f7952c7ee87be48bfa09ecd0e190fd309c4e3c8b9b07047a71e8f4c72 for 783555639
+2023-12-12 18:27:32,881 root         DEBUG    Docker has stoped: a602515f7952c7ee87be48bfa09ecd0e190fd309c4e3c8b9b07047a71e8f4c72 for 783555639
+2023-12-12 18:27:32,904 root         INFO     CORRECT: 783555639
